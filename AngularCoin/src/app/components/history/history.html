@@ -1,0 +1,19 @@
+<div class="history-container">
+  <h2>Histórico de Conversões</h2>
+
+  <button *ngIf="history.length > 0" (click)="clearHistory()" class="clear-btn">
+    🗑️ Limpar Histórico
+  </button>
+
+  <div *ngIf="history.length === 0" class="empty">
+    Nenhuma conversão realizada ainda.
+  </div>
+
+  <div *ngFor="let item of history" class="history-item">
+    <span class="date">{{ item.date }}</span>
+    <span class="conversion">
+      {{ item.amount }} {{ item.from }} = 
+      <strong>{{ item.result | number:'1.2-2' }} {{ item.to }}</strong>
+    </span>
+  </div>
+</div>
