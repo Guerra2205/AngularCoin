@@ -22,9 +22,9 @@ API REST (NewsAPI)
 
 ## Telas do Projeto
 
-![Tela 1](<img width="1917" height="1017" alt="Captura de tela 2026-06-14 205229" src="https://github.com/user-attachments/assets/a5f13d71-275d-40c5-afa6-4bd1f3abeae1" />
+![Tela 1](<img width="1917" height="1017" alt="Captura de tela 2026-06-14 205229" src="https://github.com/user-attachments/assets/c55097b9-6d71-418f-92d8-79b20be2aa40" />
 )
-![Tela 2](<img width="1918" height="1018" alt="Captura de tela 2026-06-14 205243" src="https://github.com/user-attachments/assets/6a3f83a9-35f7-4fd5-9a35-4fc9d80a75db" />
+![Tela 2](<img width="1918" height="1018" alt="Captura de tela 2026-06-14 205243" src="https://github.com/user-attachments/assets/a46d4f4c-5237-4554-bd10-5db3e18ba8e7" />
 )
-![Tela 3](<img width="1918" height="1018" alt="Captura de tela 2026-06-14 205251" src="https://github.com/user-attachments/assets/c01a0dd5-58d4-4f05-a011-ee80a65fefd6" />
+![Tela 3](<img width="1918" height="1018" alt="Captura de tela 2026-06-14 205251" src="https://github.com/user-attachments/assets/18f6fa30-ccf2-4dbd-9590-bd728eb51316" />
 )
