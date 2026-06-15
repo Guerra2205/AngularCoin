@@ -20,7 +20,7 @@ HTML e CSS
 Bootstrap
 API REST (NewsAPI)
 
-Telas do Projeto
+Telas do Projeto:
 
 ![Tela 1](https://github.com/user-attachments/assets/c55097b9-6d71-418f-92d8-79b20be2aa40)
 
