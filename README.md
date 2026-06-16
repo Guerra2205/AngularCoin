@@ -5,19 +5,19 @@ O AngularCoin é uma aplicação web desenvolvida em Angular com o objetivo de f
 A aplicação consome dados de uma API de câmbio em tempo real, permitindo que o usuário selecione moedas diferentes e visualize os valores convertidos com base nas cotações mais recentes.
 
 Funcionalidades:
-Conversão entre diferentes moedas
-Atualização das cotações através de API REST
-Seleção de moeda de origem e destino
-Exibição do valor convertido em tempo real
-Interface simples e responsiva
-Compatibilidade com computadores, tablets e smartphones
+Conversão entre diferentes moedas,
+Atualização das cotações através de API REST,
+Seleção de moeda de origem e destino,
+Exibição do valor convertido em tempo real,
+Interface simples e responsiva,
+Compatibilidade com computadores, tablets e smartphones.
 
 Tecnologias utilizadas:
-Angular
-TypeScript
-HTML e CSS
-Bootstrap
-API REST de câmbio
+Angular,
+TypeScript,
+HTML e CSS,
+Bootstrap,
+API REST de câmbio.
 
 Telas do Projeto:
 
