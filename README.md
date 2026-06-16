@@ -1,5 +1,4 @@
-AngularCoin
-Sobre o projeto
+Sobre o projeto AngularCoin
 
 O AngularNews é uma aplicação web desenvolvida em Angular com o objetivo de permitir que os usuários acompanhem notícias de diferentes categorias de forma simples e organizada.
 
