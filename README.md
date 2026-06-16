@@ -1,23 +1,23 @@
 Sobre o projeto AngularCoin:
 
-O AngularNews é uma aplicação web desenvolvida em Angular com o objetivo de permitir que os usuários acompanhem notícias de diferentes categorias de forma simples e organizada.
+O AngularCoin é uma aplicação web desenvolvida em Angular com o objetivo de facilitar a conversão de moedas de forma rápida e intuitiva.
 
-A aplicação consome dados de uma API de notícias e oferece recursos como visualização de notícias, filtragem por categoria, consulta de detalhes e gerenciamento de favoritos.
+A aplicação consome dados de uma API de câmbio em tempo real, permitindo que o usuário selecione moedas diferentes e visualize os valores convertidos com base nas cotações mais recentes.
 
-Funcionalidades
-Cadastro de usuários
-Login e logout
-Listagem de notícias em tempo real através de API REST
-Filtro de notícias por categoria
-Visualização detalhada de cada notícia
-Salvamento de notícias favoritas
-Interface responsiva para computadores e dispositivos móveis
-Tecnologias utilizadas
+Funcionalidades:
+Conversão entre diferentes moedas
+Atualização das cotações através de API REST
+Seleção de moeda de origem e destino
+Exibição do valor convertido em tempo real
+Interface simples e responsiva
+Compatibilidade com computadores, tablets e smartphones
+
+Tecnologias utilizadas:
 Angular
 TypeScript
 HTML e CSS
 Bootstrap
-API REST (NewsAPI)
+API REST de câmbio
 
 Telas do Projeto:
 
